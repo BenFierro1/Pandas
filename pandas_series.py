@@ -34,7 +34,7 @@ print(grades["Eva"])
 # 100
 
 # If the custom indices are strings that could represent valid python identifiers,
-# pandas automatically add them to the Series as attributes that you can access via a doe(.), as in:
+# pandas automatically add them to the Series as attributes that you can access via a dot(.), as in:
 grades.Wally
 # 87
 
